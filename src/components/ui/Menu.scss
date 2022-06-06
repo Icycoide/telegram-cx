@@ -72,7 +72,7 @@
   }
 
   .footer {
-    padding: 0.5rem 0;
+    padding: 1rem 0;
     background: var(--color-chat-hover);
     color: var(--color-text-secondary);
     font-size: 0.8125rem;
@@ -83,7 +83,7 @@
     .bubble {
       background: var(--color-background-compact-menu);
       backdrop-filter: blur(10px);
-      padding: 0.25rem 0;
+      padding: 1rem 0;
     }
 
     .footer {
